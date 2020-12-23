@@ -59,6 +59,8 @@ int main(void)
 }
 ```
 ### Result with sleep function
- ![alt text](picture/result_sleep.png "Code_after")​
+ ![alt text](picture/result_sleep.jpg "Code_after")​
+  ![alt text](picture/cpu_sleep.jpg "Code_after")​
 ### Result without sleep function 
- ![alt text](picture/result_without_sleep.png "Code_after")​
+ ![alt text](picture/result_without_sleep.jpg "Code_after")​
+ ![alt text](picture/cpu_without_sleep.jpg "Code_after")​
